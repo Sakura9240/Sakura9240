@@ -5,6 +5,8 @@
 <h1 align="center">luck9420</h1>
 
 <p align="center"><sub>夜航日志 · 想法比时间多，正在一件一件做出来</sub></p>
+<p align="center"><a href="https://sakura9240.github.io/"><b>✦ 进入个人站 · 夜航日志 →</b></a></p>
+
 
 <div align="center">
   <img src="assets/status-card.png" alt="luck9420 的角色卡" width="100%" />
