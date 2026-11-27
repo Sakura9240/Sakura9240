@@ -7,7 +7,7 @@
 <p align="center"><sub>夜航日志 · 想法比时间多，正在一件一件做出来</sub></p>
 
 <div align="center">
-  <img src="assets/status-card.svg" alt="luck9420 的角色卡" width="100%" />
+  <img src="assets/status-card.png" alt="luck9420 的角色卡" width="100%" />
 </div>
 
 ### 关于我
