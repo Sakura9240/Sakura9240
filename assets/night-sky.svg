@@ -30,7 +30,7 @@
     <path d="M322 154 C 348 176, 388 172, 404 150 C 390 172, 344 186, 322 154 Z" fill="#e9fbff" opacity="0.8"/>
     <circle cx="388" cy="134" r="2.6" fill="#0b1a24"/>
     <path d="M296 138 C 274 130, 268 148, 288 154 C 292 150, 294 144, 296 138 Z" fill="#a8d8ea"/>
-    <path d="M330 150 C 320 164, 334 172, 346 162 Z" fill="#7fc7ff" opacity="0.8"/>
+    <path d="M330 150 C 320 164, 334 172, 346 162 Z" fill="#8fd8ee" opacity="0.8"/>
     <path d="M404 118 C 400 106, 412 100, 416 112" stroke="#cdeeff" stroke-width="2.4" fill="none" stroke-linecap="round" opacity="0.7"/>
   </g>
 
@@ -39,5 +39,5 @@
     <path d="M0 232 C 130 216, 260 248, 390 230 C 520 212, 640 246, 760 228 C 820 220, 870 228, 900 226" fill="none" stroke="#243153" stroke-width="1.6"/>
   </g>
 
-  <text x="872" y="236" text-anchor="end" font-family="'Noto Sans SC','PingFang SC',sans-serif" font-size="12" fill="#6f7ba6">夜航日志 · 小袖代笔</text>
+  <text x="872" y="236" text-anchor="end" font-family="'Noto Sans SC','PingFang SC',sans-serif" font-size="12" fill="#8b83b8">夜航日志 · 小袖代笔</text>
 </svg>
